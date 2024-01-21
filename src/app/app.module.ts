@@ -10,6 +10,7 @@ import { EspecificacionesComponent } from './components/especificaciones/especif
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { FooterComponent } from './components/footer/footer.component';
 import { ConceptSectionComponent } from './components/concept-section/concept-section.component';
+import { ServiciosEspecificosComponent } from './components/servicios-especificos/servicios-especificos.component';
 
 
 @NgModule({
@@ -20,6 +21,7 @@ import { ConceptSectionComponent } from './components/concept-section/concept-se
     EspecificacionesComponent,
     FooterComponent,
     ConceptSectionComponent,
+    ServiciosEspecificosComponent,
   
   ],
   imports: [
